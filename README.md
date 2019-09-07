@@ -2,9 +2,8 @@
 Exemplo funcional de view no CodeIgniter de mapa com vários markers (pins) que vieram por JSON.
 Embora a view seja do CodeIgniter, a lógica é no JS, logo, serve para qualquer código HTML.
 
-API v.3
+###API v.3
 
-A idéia é:
 #### Tudo está dentro da função que inicializa o mapa
 Tudo vai estar dentro da função de inicialização do mapa. Declare o código abaixo como variável global. Ou seja, logo após que abrir a função de inicialização do mapa.
 ```
