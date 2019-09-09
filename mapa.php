@@ -7,7 +7,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<div id="map"></div>
 </div>
 <script src="<?= base_url(); ?>assets/vendor/jquery/jquery.min.js"></script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCzvYJW059YSq__ME4--ilyEiuNdyhDgFE&callback=initMap" async defer></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=SUAKEY&callback=initMap" async defer></script>
 <script>
 		var map;
 
