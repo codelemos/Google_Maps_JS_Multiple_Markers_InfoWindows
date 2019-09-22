@@ -11,7 +11,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<div id="map"></div>
 </div>
 <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCzvYJW059YSq__ME4--ilyEiuNdyhDgFE&callback=initMap" async defer></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=SUA_KEY_AQUI&callback=initMap" async defer></script>
 
 <script>
 
